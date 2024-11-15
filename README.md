@@ -1,1 +1,1 @@
-# -https-fastclaime.github.io
+# fastclaime.github.io
